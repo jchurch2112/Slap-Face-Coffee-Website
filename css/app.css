@@ -1,0 +1,39 @@
+h1{font-size:60px;}
+body{background-color:none;}
+.welcome{background-color:green;}
+a:hover{color:lightgreen;}
+
+.mainnav{display: inline;
+         font-size:25px;
+         text-decoration:underline;
+         color:black;
+        margin-left: 48px;}
+
+.orbit{border:none;
+      background-color:none;}
+
+.coffeeimg{border:solid black 3px;}
+
+.circle1{background-color:red;
+         border: solid black 2px;
+         border-radius:100%;}
+
+.circle2{background-color:green;
+         border: solid black 2px;
+         border-radius:100%;}
+
+.circle3{background-color:blue;
+         border: solid black 2px;
+         border-radius:100%;}
+
+.circle4{background-color:purple;
+         border: solid black 2px;
+         border-radius:100%;}
+.blank1{background-color:blue;}
+
+.blank2{background-color:blue;}
+
+/*Below is a test run for the orbit sliders; delete if necessary*/
+$white: #fefefe;
+
+/* Demo Styles */
