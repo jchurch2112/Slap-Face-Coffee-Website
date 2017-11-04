@@ -5,6 +5,8 @@ body{background-color:none;}
 a:hover{color:lightgreen;}
 
 nav{margin-top:100px;}
+p{font-family: 'Raleway', sans-serif;
+font-size: 17px;}
 
 
 .mainnav{display: inline;
@@ -40,6 +42,17 @@ nav{margin-top:100px;}
 .blank1{background-color:blue;}
 
 .blank2{background-color:blue;}
+
+#form1 {background-color: ;
+font-family:'Raleway', sans-serif;
+font-size: 17px;
+margin-bottom: 1em;}
+
+
+
+}
+
+
 
 /*Below is a test run for the orbit sliders; delete if necessary*/
 $white: #fefefe;
