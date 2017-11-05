@@ -1,10 +1,18 @@
 h1{font-size:60px;
     font-family: 'Raleway', sans-serif;}
+
+h2{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  }
+
 body{background-color:none;}
 .welcome{background-color:green;}
+
 a:hover{color:lightgreen;}
 
 nav{margin-top:100px;}
+
 p{font-family: 'Raleway', sans-serif;
 font-size: 17px;}
 
@@ -39,6 +47,7 @@ font-size: 17px;}
 .circle4{background-color:purple;
          border: solid black 2px;
          border-radius:100%;}
+
 .blank1{background-color:blue;}
 
 .blank2{background-color:blue;}
