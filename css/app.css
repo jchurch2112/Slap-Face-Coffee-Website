@@ -11,12 +11,16 @@ body{background-color:#b79277;}
 
 a:hover{color:#82afb4;}
 
-nav{margin-top:100px;}
+nav{margin-top:100px;
+    color: white;}
+
 
 p{font-family: 'Raleway', sans-serif;
 font-size: 17px;}
 
-
+.menu{
+  text-align: center;
+}
 .mainnav{display: inline;
          font-size:25px;
          text-decoration:underline;
