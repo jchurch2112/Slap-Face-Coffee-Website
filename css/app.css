@@ -6,10 +6,10 @@ h2{
   text-align: center;
   }
 
-body{background-color:none;}
+body{background-color:#b79277;}
 .welcome{background-color:green;}
 
-a:hover{color:lightgreen;}
+a:hover{color:#82afb4;}
 
 nav{margin-top:100px;}
 
@@ -20,7 +20,7 @@ font-size: 17px;}
 .mainnav{display: inline;
          font-size:25px;
          text-decoration:underline;
-         color:black;
+         color:white;
         margin-left: 48px;
         font-family: 'Raleway', sans-serif;
         text-decoration:none;}
